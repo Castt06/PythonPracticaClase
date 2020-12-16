@@ -9,4 +9,8 @@ def resta(a,b):
     rest= a-b
     print (rest)
     
+def prod(a,b):
+    prod= a*b
+    print (prod) 
+    
 suma(a,b)
