@@ -8,5 +8,6 @@ Created on Tue Dec 15 23:25:19 2020
 def nombre(name):
     print(f"Tu nombre es: {name}")
 
-nombre("Anthony")}
+nombre("Anthony")
 nombre("bbzuu")
+nombre("tupac")
