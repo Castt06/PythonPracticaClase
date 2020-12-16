@@ -11,3 +11,4 @@ def nombre(name):
 nombre("Anthony")
 nombre("bbzuu")
 nombre("tupac")
+nombre("el más capito")
